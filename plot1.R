@@ -23,7 +23,4 @@ hist(powerDT[, Global_active_power], main="Global Active Power",
      xlab="Global Active Power (kilowatts)", ylab="Frequency", col="Red")
 
 dev.off()
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
+
